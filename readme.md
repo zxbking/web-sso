@@ -254,7 +254,7 @@ GET:/cur/user
 ### postman工具
 
 #### 登陆
-![login](doc\login.png)
+![login](./doc/login.png)
 
 #### 获取用户信息
-![login](doc\login.png)
+![login](./doc/login.png)
